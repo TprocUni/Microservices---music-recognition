@@ -21,7 +21,7 @@ const (
 	//The port number to listen on
 	port = ":3001"
 	//API key for audd.io
-	APIKey = "c0b14ff2888a1605579224168d628e24"
+	APIKey = "YOUR_API_KEY_HERE"
 	//URL for audd.io
 	URL = "https://api.audd.io/"
 )
